@@ -5,9 +5,9 @@
 <p align="center">
   Software Developer Student | Cybersecurity Background | Content Creator
 </p>
----
 
- ##👋 Hi, I'm Juan Bautista
+## 👋 Hi, I'm Juan Bautista
+
 🎓 Software Development Student at Conquer Blocks  
 💻 Currently learning and building with Python, SQL and Git  
 🛡️ Background in Cybersecurity & Backup Solutions  
