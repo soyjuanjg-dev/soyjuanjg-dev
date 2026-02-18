@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
+<h1 align="center">Juan Bautista</h1>
+
+<p align="center">
+  Software Developer Student | Cybersecurity Background | Content Creator
+</p>
+
  <p align="center">
   <img src="LogoBatmanSkyVader.png" width="380"/>
 </p>
