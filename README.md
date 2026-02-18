@@ -1,3 +1,15 @@
+ <p align="center">
+  <img src="logoBatmanSkyVader.png" width="180"/>
+</p>
+
+<h1 align="center">Juan Bautista</h1>
+
+<p align="center">
+  Software Developer Student | Cybersecurity Background | Content Creator
+</p>
+
+
+
  👋 Hi, I'm Juan Bautista
 
 🎓 Software Development Student at Conquer Blocks  
