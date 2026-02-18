@@ -5,9 +5,7 @@
 <p align="center">
   Software Developer Student | Cybersecurity Background | Content Creator
 </p>
- <p align="center">
-  <img src="LogoBatmanSkyVader.png" width="380"/>
-</p>
+
  👋 Hi, I'm Juan Bautista
 
 🎓 Software Development Student at Conquer Blocks  
