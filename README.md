@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banne.png" width="100%" />
+  <img src="banner.png" width="100%" />
 </p>
 <h1 align="center">Juan Bautista</h1>
 <p align="center">
