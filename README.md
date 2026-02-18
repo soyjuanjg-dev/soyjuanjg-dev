@@ -61,3 +61,14 @@ I also have professional experience in **Cybersecurity and Backup Solutions** as
     <img src="https://img.shields.io/badge/YouTube-13.2K%20Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 🎯 Goals for 2026
+
+- Build at least 5 solid backend projects
+- Master SQL and relational database design
+- Contribute to open source projects
+- Transition into a Junior Software Developer role
+
+---
