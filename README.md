@@ -16,25 +16,19 @@
 ---
 
 ## 🚀 About Me
-
-
-## 🚀 Tech Stack
-
+# 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)
-## 🔐 Cybersecurity
 
+# 🔐 Cybersecurity
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-005571?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Backup Solutions](https://img.shields.io/badge/Backup-Solutions-blue?style=for-the-badge)
 
-## 🎥 Content Creator
-
+# 🎥 Content Creator
 [![YouTube](https://img.shields.io/badge/YouTube-13.2K%20Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BatmanSkyVader)
-
-
 
 I am currently studying at **Conquer Blocks**, developing strong foundations in software development and programming.
 
