@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="logoBatmanSkyVader.png" width="180"/>
+  <img src="LogoBatmanSkyVader.png" width="180"/>
 </p>
 
 <h1 align="center">Juan Bautista</h1>
